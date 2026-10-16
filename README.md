@@ -34,7 +34,7 @@ I'm a forward deployed AI engineer with 12+ years in software. I build agentic s
       </a>
       <h4><a href="https://tokiyo.jordanbuilds.io">Tokiyo</a></h4>
       <p>Timed photo references for figure drawing. Pick a set of poses, or bring your own from Are.na or Cosmos, and draw while Tokiyo keeps time. Free, no account.</p>
-      <p><b>Next.js · React · TypeScript · Tailwind · Are.na API</b></p>
+      <p><b>Figure drawing · Gesture practice · Timed poses · Curated pose sets</b></p>
     </td>
     <td width="50%" valign="top">
       <a href="https://runblade.jordanbuilds.io">
@@ -42,7 +42,7 @@ I'm a forward deployed AI engineer with 12+ years in software. I build agentic s
       </a>
       <h4><a href="https://runblade.jordanbuilds.io">RUNBLADE</a></h4>
       <p>How well do you know AI? A noir interrogation game: question the subjects, spot the tells, and retire the machines before they replace us.</p>
-      <p><b>TypeScript · Vite · Vitest · Playwright · OpenRouter</b></p>
+      <p><b>Noir · Sci-fi · Interrogation · Deduction · Pixel art</b></p>
     </td>
   </tr>
   <tr>
