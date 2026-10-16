@@ -47,12 +47,12 @@ I'm a forward deployed AI engineer with 12+ years in software. I build agentic s
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/jmayalag/seer">
+      <a href="https://github.com/jordanbuildsio/seer">
         <img src="./assets/seer.webp" alt="The first page of the Knowledge-Based Systems paper, with Jordan Ayala as first author" width="380" height="238">
       </a>
-      <h4><a href="https://github.com/jmayalag/seer">Seer</a></h4>
+      <h4><a href="https://github.com/jordanbuildsio/seer">Seer</a></h4>
       <p>Machine learning that tells a trading rule when not to sell. A price forecast vetoes the false sell signals of TEMA and MACD; in 2019 backtests on the IBEX, DAX and Dow Jones, the hybrid rules earned more on every index with far fewer trades. First-author paper in <i>Knowledge-Based Systems</i> (Elsevier, 2021).</p>
-      <p><b>R · quantstrat · caret</b> · <a href="https://doi.org/10.1016/j.knosys.2021.107119">Paper</a> · <a href="https://github.com/jmayalag/OHLCMerge">OHLCMerge</a></p>
+      <p><b>R · quantstrat · caret</b> · <a href="https://doi.org/10.1016/j.knosys.2021.107119">Paper</a> · <a href="https://github.com/jordanbuildsio/OHLCMerge">OHLCMerge</a></p>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/uamericana/PINV18_846-Experiments">
