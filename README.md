@@ -15,13 +15,13 @@
 
 I'm a forward deployed AI engineer with 12+ years in software. I build agentic systems, from real-time voice agents to the tool-calling backends behind them, and ship them to production alongside the teams that run them. Before that I led engineering teams, shipped mobile apps, and built ML systems for healthcare and logistics.
 
-**Right now**
+### Right now
 
 - **At [Saywise](https://saywise.com)**, building conversational AI agents: real-time streaming pipelines, voice (OpenAI, ElevenLabs, Deepgram), and infrastructure that keeps responses under a second.
 - **On the side**, running [Tokiyo](https://tokiyo.jordanbuilds.io), a free timer for figure-drawing practice, and [RUNBLADE](https://runblade.jordanbuilds.io), a noir game about telling people from machines.
 - **Ask me about** agentic systems, voice agents, evals, or getting an AI prototype into production.
 
-**Things I've built**
+### Things I've built
 
 <table>
   <tr>
@@ -67,7 +67,7 @@ I'm a forward deployed AI engineer with 12+ years in software. I build agentic s
 
 <p>More on <a href="https://jordanbuilds.io/projects">jordanbuilds.io/projects</a>, including the portfolio itself: a static Astro site in six languages, frosted glass over a WebGL shader, 99+ on mobile Lighthouse.</p>
 
-**Toolbox**
+### Toolbox
 
 | Area | Tools |
 | :-- | :-- |
