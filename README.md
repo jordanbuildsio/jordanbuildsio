@@ -18,7 +18,7 @@ I'm a forward deployed AI engineer with 12+ years in software. I build agentic s
 ### Right now
 
 - **At [Saywise](https://saywise.com)**, building conversational AI agents: real-time streaming pipelines, voice (OpenAI, ElevenLabs, Deepgram), and infrastructure that keeps responses under a second.
-- **On the side**, running [Tokiyo](https://tokiyo.jordanbuilds.io), a free timer for figure-drawing practice.
+- **On the side**, running [Tokiyo](https://tokiyo.jordanbuilds.io), a free timer for figure-drawing practice, and [RUNBLADE](https://runblade.jordanbuilds.io), a noir game about telling people from machines.
 - **Ask me about** agentic systems, voice agents, evals, or getting an AI prototype into production.
 
 ### Things I've built
@@ -37,41 +37,41 @@ I'm a forward deployed AI engineer with 12+ years in software. I build agentic s
       <p><b>Next.js · React · TypeScript · Tailwind · Are.na API</b></p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://jordanbuilds.io">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="./assets/portfolio-dark.webp">
-          <img src="./assets/portfolio-light.webp" alt="The jordanbuilds.io home page: a bento grid of frosted glass tiles" width="380" height="238">
-        </picture>
+      <a href="https://runblade.jordanbuilds.io">
+        <img src="./assets/runblade.webp" alt="A RUNBLADE interrogation: the subject's pixel-art portrait, the transcript with a machine tell highlighted, the ID card, and the CLEAR and RETIRE stamps" width="380" height="238">
       </a>
-      <h4><a href="https://jordanbuilds.io">jordanbuilds.io</a></h4>
-      <p>My portfolio: a static bento site in six languages, with frosted glass over a GPU-gated WebGL shader. It scores 99+ on mobile Lighthouse.</p>
-      <p><b>Astro · Tailwind · three.js · Cloudflare Pages · Playwright</b></p>
+      <h4><a href="https://runblade.jordanbuilds.io">RUNBLADE</a></h4>
+      <p>How well do you know AI? A noir interrogation game: question the subjects, spot the tells, and retire the machines before they replace us.</p>
+      <p><b>TypeScript · Vite · Vitest · Playwright · OpenRouter</b></p>
     </td>
   </tr>
-</table>
-
-### Open source
-
-<table>
   <tr>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/jmayalag/seer">seer</a></h4>
-      <p>An R package and research scripts that train machine-learning models to predict price direction in the Forex market, then backtest hybrid strategies that combine them with technical analysis.</p>
-      <p><b>R</b> · <a href="https://github.com/jmayalag/OHLCMerge">Companion: OHLCMerge</a></p>
+      <a href="https://github.com/jmayalag/seer">
+        <img src="./assets/seer.webp" alt="The first page of the Knowledge-Based Systems paper, with Jordan Ayala as first author" width="380" height="238">
+      </a>
+      <h4><a href="https://github.com/jmayalag/seer">Seer</a></h4>
+      <p>Machine learning that tells a trading rule when not to sell. A price forecast vetoes the false sell signals of TEMA and MACD; in 2019 backtests on the IBEX, DAX and Dow Jones, the hybrid rules earned more on every index with far fewer trades. First-author paper in <i>Knowledge-Based Systems</i> (Elsevier, 2021).</p>
+      <p><b>R · quantstrat · caret</b> · <a href="https://doi.org/10.1016/j.knosys.2021.107119">Paper</a> · <a href="https://github.com/jmayalag/OHLCMerge">OHLCMerge</a></p>
     </td>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/uamericana/PINV18_846-Experiments">PINV18-846 Experiments</a></h4>
-      <p>Research code from Universidad Americana for detecting diabetic retinopathy in eye-fundus images. It fine-tunes ResNet, Xception and MobileNet with TensorFlow and uses an evolutionary algorithm (DEAP) to search their hyperparameters.</p>
-      <p><b>Python · TensorFlow</b></p>
+      <a href="https://github.com/uamericana/PINV18_846-Experiments">
+        <img src="./assets/auto-retinopathy.webp" alt="The diagnosis tool's start screen, with its steps: start, terms, data, results" width="380" height="238">
+      </a>
+      <h4><a href="https://github.com/uamericana/PINV18_846-Experiments">Auto Retinopathy</a></h4>
+      <p>Grading diabetic retinopathy from an eye fundus photo, for a CONACYT-funded project (PINV18-846). I ran the deep learning experiments, with an evolutionary algorithm tuning ResNet, Xception and MobileNet, and built most of the web tool where doctors upload a photo and get a grade back.</p>
+      <p><b>Python · TensorFlow · DEAP · Next.js</b> · <a href="https://doi.org/10.3233/SHTI220166">Paper</a></p>
     </td>
   </tr>
 </table>
+
+<p>More on <a href="https://jordanbuilds.io/projects">jordanbuilds.io/projects</a>, including the portfolio itself: a static Astro site in six languages, frosted glass over a WebGL shader, 99+ on mobile Lighthouse.</p>
 
 ### Toolbox
 
 | Area | Tools |
 | :-- | :-- |
-| **AI & ML** | Python · FastAPI · Keras · OpenAI · ElevenLabs · Deepgram |
+| **AI & ML** | Python · FastAPI · TensorFlow · OpenAI · OpenRouter · ElevenLabs · Deepgram |
 | **Web** | TypeScript · React · Next.js · Astro · Tailwind CSS |
 | **Mobile** | React Native · Kotlin · Android · Firebase |
 | **Data & infra** | Kafka · BigQuery · Google Cloud · Cloudflare |
