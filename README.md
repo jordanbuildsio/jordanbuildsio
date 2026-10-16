@@ -32,7 +32,7 @@ I'm a forward deployed AI engineer with 12+ years in software. I build agentic s
           <img src="./assets/tokiyo-light.webp" alt="Tokiyo's home screen, with four pose collections to choose from" width="380" height="238">
         </picture>
       </a>
-      <h4><a href="https://tokiyo.jordanbuilds.io">Tokiyo</a></h4>
+      <p><a href="https://tokiyo.jordanbuilds.io"><b>Tokiyo</b></a></p>
       <p>Timed photo references for figure drawing. Pick a set of poses, or bring your own from Are.na or Cosmos, and draw while Tokiyo keeps time. Free, no account.</p>
       <p><b>Figure drawing · Gesture practice · Timed poses · Curated pose sets</b></p>
     </td>
@@ -40,7 +40,7 @@ I'm a forward deployed AI engineer with 12+ years in software. I build agentic s
       <a href="https://runblade.jordanbuilds.io">
         <img src="./assets/runblade.webp" alt="A RUNBLADE interrogation: the subject's pixel-art portrait, the transcript with a machine tell highlighted, the ID card, and the CLEAR and RETIRE stamps" width="380" height="238">
       </a>
-      <h4><a href="https://runblade.jordanbuilds.io">RUNBLADE</a></h4>
+      <p><a href="https://runblade.jordanbuilds.io"><b>RUNBLADE</b></a></p>
       <p>How well do you know AI? A noir interrogation game: question the subjects, spot the tells, and retire the machines before they replace us.</p>
       <p><b>Noir · Sci-fi · Interrogation · Deduction · Pixel art</b></p>
     </td>
@@ -50,7 +50,7 @@ I'm a forward deployed AI engineer with 12+ years in software. I build agentic s
       <a href="https://github.com/jordanbuildsio/seer">
         <img src="./assets/seer.webp" alt="The first page of the Knowledge-Based Systems paper, with Jordan Ayala as first author" width="380" height="238">
       </a>
-      <h4><a href="https://github.com/jordanbuildsio/seer">Seer</a></h4>
+      <p><a href="https://github.com/jordanbuildsio/seer"><b>Seer</b></a></p>
       <p>Machine learning that tells a trading rule when not to sell. A price forecast vetoes the false sell signals of TEMA and MACD; in 2019 backtests on the IBEX, DAX and Dow Jones, the hybrid rules earned more on every index with far fewer trades. First-author paper in <i>Knowledge-Based Systems</i> (Elsevier, 2021).</p>
       <p><b>R · quantstrat · caret</b> · <a href="https://doi.org/10.1016/j.knosys.2021.107119">Paper</a> · <a href="https://github.com/jordanbuildsio/OHLCMerge">OHLCMerge</a></p>
     </td>
@@ -58,7 +58,7 @@ I'm a forward deployed AI engineer with 12+ years in software. I build agentic s
       <a href="https://github.com/uamericana/PINV18_846-Experiments">
         <img src="./assets/auto-retinopathy.webp" alt="The diagnosis tool's start screen, with its steps: start, terms, data, results" width="380" height="238">
       </a>
-      <h4><a href="https://github.com/uamericana/PINV18_846-Experiments">Auto Retinopathy</a></h4>
+      <p><a href="https://github.com/uamericana/PINV18_846-Experiments"><b>Auto Retinopathy</b></a></p>
       <p>Grading diabetic retinopathy from an eye fundus photo, for a CONACYT-funded project (PINV18-846). I ran the deep learning experiments, with an evolutionary algorithm tuning ResNet, Xception and MobileNet, and built most of the web tool where doctors upload a photo and get a grade back.</p>
       <p><b>Python · TensorFlow · DEAP · Next.js</b> · <a href="https://doi.org/10.3233/SHTI220166">Paper</a></p>
     </td>
