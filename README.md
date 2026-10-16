@@ -34,12 +34,7 @@ I'm a forward deployed AI engineer with 12+ years in software. I build agentic s
       </a>
       <h4><a href="https://tokiyo.jordanbuilds.io">Tokiyo</a></h4>
       <p>Timed photo references for figure drawing. Pick a set of poses, or bring your own from Are.na or Cosmos, and draw while Tokiyo keeps time. Free, no account.</p>
-      <p>
-        <img src="./assets/tags/tokiyo/figure-drawing.svg" alt="Figure drawing">
-        <img src="./assets/tags/tokiyo/gesture-practice.svg" alt="Gesture practice">
-        <img src="./assets/tags/tokiyo/timed-poses.svg" alt="Timed poses">
-        <img src="./assets/tags/tokiyo/curated-pose-sets.svg" alt="Curated pose sets">
-      </p>
+      <p><b>Next.js · React · TypeScript · Tailwind · Are.na API</b></p>
     </td>
     <td width="50%" valign="top">
       <a href="https://runblade.jordanbuilds.io">
@@ -47,13 +42,7 @@ I'm a forward deployed AI engineer with 12+ years in software. I build agentic s
       </a>
       <h4><a href="https://runblade.jordanbuilds.io">RUNBLADE</a></h4>
       <p>How well do you know AI? A noir interrogation game: question the subjects, spot the tells, and retire the machines before they replace us.</p>
-      <p>
-        <img src="./assets/tags/runblade/noir.svg" alt="Noir">
-        <img src="./assets/tags/runblade/sci-fi.svg" alt="Sci-fi">
-        <img src="./assets/tags/runblade/interrogation.svg" alt="Interrogation">
-        <img src="./assets/tags/runblade/deduction.svg" alt="Deduction">
-        <img src="./assets/tags/runblade/pixel-art.svg" alt="Pixel art">
-      </p>
+      <p><b>TypeScript · Vite · Vitest · Playwright · OpenRouter</b></p>
     </td>
   </tr>
   <tr>
